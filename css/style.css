@@ -215,6 +215,14 @@ h3 {
 .sub-header h1 {
   margin-top: 100px;
 }
+.viewmore {
+  color: black;
+  font-family: "Roboto", sans-serif;
+}
+.mb-3 {
+  text-align: center;
+  font-family: "Roboto", sans-serif;
+}
 
 .about-us {
   width: 80%;

@@ -3,12 +3,7 @@
       posts: [],
       baseUrl: 'https://getsomeapi.com/wp-json/wp/v2/posts',
       perPage: '?per_page=10',
-    //   wpFetchHeaders: {
-    //     headers: {
-    //       'Access-Control-Allow-Origin': '*',
-    //       'Access-Control-Expose-Headers': 'x-wp-total'
-    //     }
-    //   }
+
     }
 
     async function getNumPosts() {
